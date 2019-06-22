@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+div.buttonWrapper {
+   margin: 1em;
+}
+
+div.button {
+    border: 3px solid black;
+    border-radius: 5px;
+    margin: 2.5%;
+    width: 5%;
+    height: 7%;
+    text-align: center;
+}
+
+div.button:hover {
+    background-color: moccasin;
+    color: greenyellow;
+}
+
+div.button {
+    background-color: bisque;
+    color: teal;
+}
+
+.main-section{
+    background-image: linear-gradient(to bottom right, #b5ff60,#f291ff);
+}
+
+.headshot{
+    border-radius: 50%;
+    width: 25%;
+    height: 25%;
+}

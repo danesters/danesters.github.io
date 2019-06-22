@@ -1,0 +1,79 @@
+body {
+    background: black;
+    background: linear-gradient(to right, #fcabb4 0%, #ff001c 100%);
+  }
+  
+  p {
+    color: red text;
+    text-align: center;
+    font-size: 20px;
+    font-family: "Fredoka One", cursive;
+    border-style: outset;
+  }
+
+  p.marioPTag {
+    background-color: black;
+    color: red;
+}
+  
+  h1 {
+    color: purple;
+    font-size: 40px;
+    font-family: "VT323", monospace;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  .picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  a {
+    align: center;
+    font-size: 20px;
+  }
+  
+  .special {
+    text-align: center;
+  }
+  
+  .bg {
+    background: black;
+  }
+  
+  .opacity {
+    background-color: blue;
+  }
+  
+  li {
+    text-align: center;
+    font-size: 30px;
+    font-family: "Dokdo", cursive;
+  }
+  
+  a {
+    border-style: outset;
+    font-family: "Fredoka One";
+  }
+  
+  #mysection {
+    border-style: dotted;
+    border-width: 50%;
+    border-color: #ff99ff;
+    background-color: #ccccff;
+    padding: 3px;
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/0kjHIH6/animation-of-1980s-old-arcade-super-mario-bros-clouds-background_vywb1uvex__F0000.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+  }
+  .mario {
+    margin-left: 30px;
+  }
+  
+  .specialOne{
+    text-align: center;
+    border-radius:25px;
+  }
+
